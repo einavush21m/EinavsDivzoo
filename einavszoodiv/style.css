@@ -1,0 +1,21 @@
+         div {
+                width: 80%;
+                margin: auto;
+            }
+          
+          
+            body
+            {
+               background-image:url(img/amazonas.jpg);
+               background-repeat:no-repeat;
+               background-size:100%;
+               padding: 8px;
+               text-align: center;
+               color:purple;
+                
+                
+            }
+             img
+        {
+            border-radius: 50px;
+        }
